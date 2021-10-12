@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://powex.ml/sitemap.xml
+Sitemap: joelondon.github.io/sitemap.xml
