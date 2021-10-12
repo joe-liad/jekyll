@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "joelreflective",
-    "home_page_url": "joelondon.github.io/jekyll/",
-    "feed_url": "joelondon.github.io/jekyll/feed.json",
+    "home_page_url": "/",
+    "feed_url": "/feed.json",
     "description": "a blog about reflective services",
-    "icon": "joelondon.github.io/jekyll/apple-touch-icon.png",
-    "favicon": "joelondon.github.io/jekyll/favicon.ico",
+    "icon": "/apple-touch-icon.png",
+    "favicon": "/favicon.ico",
     "expired": false,
     
     "author":  {
@@ -17,12 +17,12 @@
 "items": [
     
         {
-            "id": "joelondon.github.io/jekyll/2019/08/31/difference-between-font-formats",
+            "id": "/2019/08/31/difference-between-font-formats",
             "title": "Difference between font formats",
             "summary": "What is the difference between various font formats?",
             "content_text": "h1h2h3h4h5bullets  a  b  c  blockquotefun main(args: Array&lt;String&gt;) {    println(\"Hello, World!\")}",
             "content_html": "<h1 id=\"h1\">h1</h1><h2 id=\"h2\">h2</h2><h3 id=\"h3\">h3</h3><h4 id=\"h4\">h4</h4><h5 id=\"h5\">h5</h5><hr /><p>bullets</p><ul>  <li>a</li>  <li>b</li>  <li>c</li></ul><hr /><blockquote>  <p>blockquote</p></blockquote><div class=\"language-java highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code><span class=\"n\">fun</span> <span class=\"nf\">main</span><span class=\"o\">(</span><span class=\"nl\">args:</span> <span class=\"nc\">Array</span><span class=\"o\">&lt;</span><span class=\"nc\">String</span><span class=\"o\">&gt;)</span> <span class=\"o\">{</span>    <span class=\"n\">println</span><span class=\"o\">(</span><span class=\"s\">\"Hello, World!\"</span><span class=\"o\">)</span><span class=\"o\">}</span></code></pre></div></div>",
-            "url": "joelondon.github.io/jekyll/2019/08/31/difference-between-font-formats",
+            "url": "/2019/08/31/difference-between-font-formats",
             
             
             
