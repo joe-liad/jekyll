@@ -22,6 +22,7 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll \
         -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll &&\
+        apk --no-cache add graphviz &&\
         jekyll build --future -d build"
     
     # Deploy to gh-pages branch

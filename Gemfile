@@ -4,7 +4,6 @@ gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jekyll-relative-links'
 gem "tzinfo-data", "~> 1.2021"
-gem 'ruby-graphviz', '~> 1.2', '>= 1.2.3'
 group :jekyll_plugins do
   gem 'jekyll-diagrams'
 end
