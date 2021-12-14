@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>joelreflective</title>
- <link href="//atom.xml" rel="self"/>
- <link href="//"/>
- <updated>2021-10-12T20:40:28+01:00</updated>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2021-12-14T23:08:26+00:00</updated>
  <id></id>
  <author>
    <name>joelondon</name>
@@ -13,39 +13,68 @@
 
  
  <entry>
-   <title>Difference between font formats</title>
-   <link href="//2019/08/31/difference-between-font-formats"/>
-   <updated>2019-08-31T00:00:00+01:00</updated>
-   <id>/2019/08/31/difference-between-font-formats</id>
-   <content type="html">&lt;h1 id=&quot;h1&quot;&gt;h1&lt;/h1&gt;
-
-&lt;h2 id=&quot;h2&quot;&gt;h2&lt;/h2&gt;
-
-&lt;h3 id=&quot;h3&quot;&gt;h3&lt;/h3&gt;
-
-&lt;h4 id=&quot;h4&quot;&gt;h4&lt;/h4&gt;
-
-&lt;h5 id=&quot;h5&quot;&gt;h5&lt;/h5&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;bullets&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;a&lt;/li&gt;
-  &lt;li&gt;b&lt;/li&gt;
-  &lt;li&gt;c&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;blockquote&lt;/p&gt;
+   <title>Why reflective services?</title>
+   <link href="/2021/10/28/why-reflective-services"/>
+   <updated>2021-10-28T00:00:00+01:00</updated>
+   <id>/2021/10/28/why-reflective-services</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;“I have said that poetry is the spontaneous overflow of powerful feelings: it takes its origin from &lt;strong&gt;emotion recollected in tranquility&lt;/strong&gt;.”
+– William Wordsworth, Lyrical Ballads (1798-1800), Preface.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;args:&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello, World!&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The idea of turning the events of the day into something new was first put to me by an English teacher who explained that Wordsworth’s modus operandi was to go for a solitary wander (&lt;em&gt;lonely as a cloud…&lt;/em&gt;) and then latest revisit the experience in memory - using the prism of hindsight to translate feelings into words, words into poems, and poems back into feelings. This is not so much &lt;em&gt;feedback&lt;/em&gt; as &lt;em&gt;feedforward&lt;/em&gt;, and Wordsworth was actively experiencing, reflecting and writing about nature. This might make him an early example of a reflective practitioner using recollections to develop craft.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“despite  being  born  with  cognitive potential,  humans  do  not  arrive  with either pre-installed empirical knowledge or methodological rules. Neither do we acquire knowledge ready-formed or pre-packaged by directly perceiving it. On the whole, knowledge, our criteria and methods for knowing it, and the disciplines to which this knowledge contributes are constructed” - Light and Cox, Learning and teaching in higher education: The reflective professional, (2001)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fast forward twenty years and whilst working as a teacher, I was given a book that applied what seems a similar idea to the pratice of honing the skills of an educator. In the book, the writers make the case that a good way to develop as a professional teacher is to use reflection to develop the practice of teaching by actively logging and considering what the events of the day mean for the future, so that when similar or related events happen again, a sound association is made with prior experience, making the new event as well-prepared-for as it can be.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“…from the perspective of technical rationality, professional practice is a process of &lt;em&gt;problem solving&lt;/em&gt;. Problems of choice or decision are solved through the selection, from available means, of the one best suited to established ends. But with this emphasis on problem solving, we ignore problem &lt;em&gt;setting,&lt;/em&gt; the process by which we define the decision to be made, the ends to be achieved, the means which may be chosen….When we set the problem, we select what we will treat as the “things” of the situation, we set the boundaries of our attention to it and we impose upon it a coherence which allows us to say what is wrong and in what directions the situation needs to be changed. Problem setting is a process in which, interactively, we &lt;em&gt;name&lt;/em&gt; the things to which we will attend and &lt;em&gt;frame&lt;/em&gt; the context in which we will attend to them.” - Schon, D., The Reflective Practitioner, (1983)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Experience&lt;/th&gt;
+      &lt;th&gt;Reflection&lt;/th&gt;
+      &lt;th&gt;Learning&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What?&lt;/td&gt;
+      &lt;td&gt;So what?&lt;/td&gt;
+      &lt;td&gt;Now what?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description of events&lt;/td&gt;
+      &lt;td&gt;Unpicking the events&lt;/td&gt;
+      &lt;td&gt;What has been learned? What is the impact?&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;jekyll-diagrams diagrams graphviz&quot;&gt;
+  Command Not Found: dot
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-diagrams diagrams graphviz&quot;&gt;
+  Command Not Found: dot
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-diagrams diagrams graphviz&quot;&gt;
+  Command Not Found: dot
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-diagrams diagrams graphviz&quot;&gt;
+  Command Not Found: dot
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-diagrams diagrams graphviz&quot;&gt;
+  Command Not Found: dot
+&lt;/div&gt;
 
 </content>
  </entry>
