@@ -5,6 +5,10 @@ gem 'jekyll-sitemap'
 gem 'jekyll-relative-links'
 gem "tzinfo-data", "~> 1.2021"
 
+group :jekyll_plugins do
+  gem 'jekyll-diagrams'
+end
+
 # windows specific
 gem 'wdm', '>= 0.1.0'
 
