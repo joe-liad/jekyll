@@ -15,10 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    # Prepare `dot` command
-    - name: Setup Graphviz
-      uses: ts-graphviz/setup-graphviz@v1
-
     # Build
     - name: 👷 Build the site in the jekyll container 
       run: |
@@ -26,6 +22,7 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll \
         -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll &&\
+        apt-get install -y graphviz &&\
         jekyll build --future -d build"
     
     # Deploy to gh-pages branch
