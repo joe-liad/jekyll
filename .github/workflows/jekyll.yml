@@ -15,9 +15,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    # Prepare `dot` command
+    - name: Setup Graphviz
+      uses: ts-graphviz/setup-graphviz@v1
+
     # Build
     - name: 👷 Build the site in the jekyll container 
-      uses: ts-graphviz/setup-graphviz@v1
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll \
